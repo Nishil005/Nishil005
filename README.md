@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nishil005
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Internships
 - 📫 How to reach me https://www.linkedin.com/in/nishil-gawde-6940631b0/
